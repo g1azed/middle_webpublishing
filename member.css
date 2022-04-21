@@ -159,6 +159,12 @@ nav{
     position: relative;
 } */
 /* 호버하면 폰트 볼드 */
+.mem:hover  .name{
+    color: white;
+}
+.mem:hover  .position{
+    color: white;
+}
 .mem_1:hover ~ .h_mem_1{
     visibility: visible;
     

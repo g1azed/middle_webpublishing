@@ -30,7 +30,7 @@ section{
     width: 100%; height: 700px; */
 
     width: 100%; height: 1000px;
-    background-image: url(./img/스크린샷\ 2022-04-11\ 오전\ 9.15.57.png);
+    background-image: url(./img/backgroundImg.png);
     background-size: cover;
     z-index: -1;
     position: absolute;
