@@ -1,0 +1,60 @@
+#main-sect{
+    background-image: url(./img/main2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%; height: 1080px;
+
+
+}
+/* #iND {
+    width: 500px;
+    height: auto;
+    margin-top: 500px;
+    margin-left: 1200px;
+    position: relative;
+    /*그럼 relative를 줘서 대충 포지션값이 있다~ 라고 넣어줌*/
+    /* z-index: 3; */
+    /*z-index 는 position값을 줘야 먹힘*/
+
+
+#track-sect{
+    width: 100%; height: 1080px;
+    padding: 0px 0 0 0 ;
+    border: 60px solid #dd004e;
+    background-clip: content-box;
+}
+#track-sect-sub{
+    height: 100%;
+    border: 50px solid black;
+}
+
+#track-sect h2{
+    display: block;
+    width: 1000px;
+    padding-bottom: 8px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 250px;
+    border-bottom: 1px solid black ;
+}
+#t_list_box{
+    text-align: center;
+    margin-top: 90px;
+    background-color: white;
+}
+.t_list{
+    display:inline-block;
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+}
+.t_list li{
+    margin-bottom: 50px;
+}
+.li_1{
+    border-right: 1px solid black;
+}
+
+
+
+

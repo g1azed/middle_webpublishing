@@ -1,0 +1,165 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    position: relative;
+}
+nav{
+    background-color: black;
+    position: fixed;
+    z-index:3;
+}
+
+body{
+    overflow-x: hidden;
+
+}
+h2{ font-size: 100px;}
+
+h3{ font-size: 72px;}
+
+/* footer p:not{
+    font-size:48px;
+} */
+.cody_wrap{
+    max-width: 100%;
+    min-width: 1330px;
+
+    margin: 20px;
+}
+
+.cody_1{
+    margin-top: 100px;
+    margin-left: 20px;
+    display: inline-block;
+    width: 100%; height: 1080px;
+}
+.cody_1 h2{
+    border-bottom: 1px solid black;
+}
+#text_wrap{
+    float: right;
+    margin-right: 200px;
+    margin-top: 30px;
+    font-size: 48px;
+    mix-blend-mode: white;
+}
+
+
+#img_wrap{
+    margin-top: 30px;
+}
+.img1{
+    width:500px; height: auto;
+    margin-left: 250px;
+    position:sticky;
+    z-index: -1;
+}
+.img2{
+    width:500px; height: auto;
+    margin-left: 700px;
+    margin-top: -350px;
+    position: sticky;
+    z-index: -1;
+
+}
+
+.cody_2{
+    display: flex;
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 50px;
+    margin-top:100px;
+}
+#f_cody_2_wrap{
+    width: 1000px; height: 1800px;
+    /* margin: 80px; */
+
+}
+#f_cody_2_wrap h3{
+    width: 700px;
+    text-align: end;
+
+    font-size: 72px;
+}
+
+#magenta img {
+    width: 700px; height: auto;
+}   
+#magenta{
+    display: flex; 
+    position: relative;
+}
+#magenta h4{
+    font-size: 36px;
+    width: 800px;
+    line-height: 80px;
+    position:absolute;
+    left: 700px;
+
+    
+
+}
+#s_cody_2_wrap {
+    margin-top: 144px;
+    display: inline-block;
+    margin: 80px;
+}
+#radius_img{
+    width: 400px; height: auto;
+    
+    border-radius: 50%;
+    margin-bottom: 50px;
+    float: left;
+}
+#box_img{
+    width: 450px; height: auto;
+    float: right;
+}
+
+.cody_3{
+    position: relative;
+    bottom: 550px;
+    z-index: 0;
+    color: white;
+    width: 1200px; height : 800px;
+    margin: 0 auto;
+
+
+}
+#cody_3_text{
+    margin-left: 30px;
+}
+#text_1{
+    font-size: 24px;
+    position: absolute;
+    top: 200px;
+}
+#text_2{
+    font-size: 24px;
+    position: absolute;
+    top: 230px;
+}
+
+
+
+.cody_3 img{
+    display: flex;
+    justify-content: center; align-items: center;
+    margin: 0 auto;
+    width: 1300px; height: auto;
+    
+
+}
+
+/* #bg{
+    width: 100%; height: 1000px;
+    background-color: #dd004e;
+    z-index: -5;
+    position: relative;
+    bottom: 1300px;
+} */
